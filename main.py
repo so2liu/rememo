@@ -68,6 +68,7 @@ def get_response(prompt: str):
             run_id=run.id
         )
         logging.info(f"Run status: {run.status}")
+        st.write(f'Loading... {run.status}')
         time.sleep(1)
 
     st.info("Assistant ran successfully, now getting response...")
