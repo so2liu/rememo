@@ -2,6 +2,8 @@
 
 Welcome to `rememo`, a Streamlit-based demo project that showcases the capabilities of the newly released beta API from OpenAI, known as `assistant`. `rememo` stands for "Remember Memo" and is designed to act as your personal assistant for querying documents.
 
+DEMO: https://rememo.streamlit.app/
+
 ## Features
 
 -   **Document Upload**: Easily upload your documents to the assistant.
